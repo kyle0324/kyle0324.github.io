@@ -6,6 +6,6 @@ C++ Developer Certificate from DMACC 2021
 
 ### Projects
 Card counter application
--Desktop GUI with QT
--SQLight to simulate communication with a database
--csv reader for users to upload personal decks
+- Desktop GUI with QT
+- SQLight to simulate communication with a database
+- csv reader for users to upload personal decks
