@@ -1,4 +1,5 @@
-# kyle0324.github.io
+### Technical Skills
+C/C++, Java, JavaScript, SQL, Python
 
 ### Education
 - Computer Science, BS from Iowa State University 2024
