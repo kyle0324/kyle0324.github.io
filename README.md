@@ -7,10 +7,12 @@ C/C++, Java, JavaScript, SQL, Python
 
 ### Projects
 Custom OS for the RasberryPi 3 (CROS)
-- With Assembly, C and C++
-- Built from Scratch
-- Contributed mostly on Userspace (custom C library and interactive shell)
+- Used Assembly, C and C++
+- Built from Scratch with Fat32 memory format
+- Contributed mostly to Userspace (custom C library and interactive shell)
 - Gained knowledge in GDB and cross-compiliers
+- For more info go to: https://seniord.cs.iastate.edu/2024-Jan-16/
+![rasberry pi](/assets/img/raspi.png)
 
 Computer StoreFront Website
 - Uses Node, React, MangoDB
