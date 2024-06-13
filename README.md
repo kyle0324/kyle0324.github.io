@@ -25,6 +25,7 @@ Computer StoreFront Website
 - Corectly updates the store when a user adds to cart and checks out
 
 Oddjob App
+![login Screen](/assets/img/login.PNG)
 - Made with Android Studio, Java, MySql, Maven and Springboot
 - Focused on Frontend development
 - a user can either find a job, or make a job request
