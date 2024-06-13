@@ -6,12 +6,6 @@ C/C++, Java, JavaScript, SQL, Python
 - C++ Developer Certificate from DMACC 2021
 
 ### Projects
-Card counter application
-- Desktop GUI with QT and C++
-- SQLight to simulate communication with a database
-- csv reader for users to upload personal decks
-- Can save decks for the user to be accessed at later activations
-
 Custom OS for the RasberryPi 3 (CROS)
 - With Assembly, C and C++
 - Built from Scratch
@@ -37,3 +31,10 @@ Oddjob App
 ![login Screen](/assets/img/login.PNG)
 ![seeker page](/assets/img/seeker.PNG)
 ![profile screen](/assets/img/profileScreen.PNG)
+
+Card counter application
+- Desktop GUI with QT and C++
+- SQLight to simulate communication with a database
+- csv reader for users to upload personal decks
+- Can save decks for the user to be accessed at later activations
+![card reader](/assets/cardReader.PNG)
