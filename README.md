@@ -26,7 +26,7 @@ Computer StoreFront Website
 - A admin has the ability to add a new product from the site
 ![inventory](/assets/img/inventory.PNG)
 ![cart view](/assets/img/cart2.PNG)
-![confirmation](/assets/img/confirmation.PNG)
+![confirmation](/assets/img/confrimation.PNG)
 ![new product](/assets/img/newProduct.PNG)
 
 Oddjob App
