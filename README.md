@@ -18,7 +18,7 @@ Computer StoreFront Website
 - Uses Node, React, MangoDB
 - One-page style
 - Interactive with verification checks on payment info
-- Corectly updates the store when a user adds to cart and checks out
+- Correctly updates the store when a user adds to cart and checks out
 - A admin has the ability to add a new product from the site
 ![inventory](/assets/img/inventory.PNG)
 ![cart view](/assets/img/cart2.PNG)
